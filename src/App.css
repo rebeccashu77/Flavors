@@ -1,21 +1,6 @@
-.App {
-  text-align: center;
-}
-
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
-}
-
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
-}
-
 .App-header {
   background-color: #282c34;
-  min-height: 100vh;
+  min-height: 200vh;
   display: flex;
   flex-direction: column;
   align-items: center;
@@ -23,6 +8,11 @@
   font-size: calc(10px + 2vmin);
   color: white;
 }
+
+.App body {
+  height: 100%;
+  position: relative;
+ }
 
 .App-link {
   color: #61dafb;
@@ -36,3 +26,65 @@
     transform: rotate(360deg);
   }
 }
+
+  /*--- navigation bar ---*/
+  .navbar-expand-md {
+    background: #66b3ff;
+    height: 4em;
+    top:0;
+    left: 0;
+    width: 100%;
+    position: sticky;
+    z-index: 9999;
+    text-align: right;
+  }
+  .navbar-expand-md-collapse {
+    justify-content: flex-end;
+  }
+  .logo-image {
+    height: 3em;
+    position: absolute;
+    text-align: left;
+    left: -10px;
+    top: -10px;
+  }
+  .item {
+    color: #fff;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    font-size: medium;
+    margin-right: 1em !important;
+    text-align: right;
+  }
+  .item:hover {
+    color: #000;
+    cursor: pointer;
+  }
+  .navigation-sub {
+    position: relative;
+    margin-right: 1em !important;
+    text-align: center;
+    padding-left: 40px;
+  }
+
+  .main-container {
+    min-height: 150vh; /* will cover the 100% of viewport */
+    overflow-y: auto;
+    display: block;
+    position: relative;
+    padding-bottom: 100px;
+   }
+    /*---  footer ---*/
+    .page-footer {
+      background-color: #222;
+      color: #ccc;
+      padding: 20px 0 5px;
+      position: absolute;
+      left: 0;
+      bottom: 0;
+      right: 0;
+    }
+ 
+  
+
+

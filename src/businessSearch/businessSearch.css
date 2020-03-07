@@ -1,0 +1,94 @@
+.businessSearch {
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 100vh;
+}
+
+.businessSearch-vertical {
+    left: 0;
+    top: 0;
+    min-height: 100%;
+}
+
+.businessSearch-description {
+    text-align: left;
+    height: 100%;
+    background-color: aliceblue;
+    overflow-y: auto;
+}
+
+.businessSearch-description h2 {
+    color: black;
+    font-weight: bold;
+    text-align: left;
+    margin-left: .8em;
+    font-family: Arial, Helvetica, sans-serif;
+    padding-top: 30px;
+    font-size: 50px;
+}
+
+.businessSearch-information-container {
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    color: black;
+    background-color: salmon;
+    overflow-x: auto;
+}
+.businessSearch-information-container a{
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    color: black;
+    background-color: white;
+    margin-left: 10px;
+    text-align: left;
+}
+
+.businessSearch-description img {
+    height: 200px;
+    width: 200px;
+    margin-left: 40px;
+    padding-bottom: 10px;
+    padding-top: 20px;
+}
+
+.Business {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    width: 42rem;
+    margin: 0 .5rem 0.5rem .5rem;
+    background-color: whitesmoke;
+    height: 13rem;
+  }
+  
+  .Business .image-container {
+    height: 13rem;
+    margin-right: -20px;
+    margin-left: -10px;
+  }
+
+  .Business-information {
+    flex-direction: column;
+    margin-left: 35px;
+    width: 27rem;
+    height: 13rem;
+    font-family: Arial, Helvetica, sans-serif;
+  }
+    
+  .Business-information h3 {
+    margin-top: .8rem;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 1.2rem;
+    font-weight: 600;
+  }
+  
+  .Business-information p {
+    font-size: 1.1rem;
+    font-weight: 300;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+
+
+
+  

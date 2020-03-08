@@ -111,7 +111,6 @@ export class businessSearch extends Component {
           style={mapStyles}
           center= {{lat: this.state.latitude, lng: this.state.longitude}}
         >
-        
         {(this.state.businesses.map(business =>{
            return(
             <Marker key={business}
@@ -140,7 +139,7 @@ export class businessSearch extends Component {
       const updateMap = this.state.updateMap;
       let map;
 
-      /* Conditional Rendering the map from current location to input */
+      /* Conditional Rendering the map from current location to inputed location */
         if(updateMap){
           map = (
             <Map

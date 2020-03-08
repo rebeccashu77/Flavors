@@ -1,0 +1,37 @@
+{
+  "files": {
+    "main.css": "/flavors/static/css/main.547f0f42.chunk.css",
+    "main.js": "/flavors/static/js/main.92f30564.chunk.js",
+    "main.js.map": "/flavors/static/js/main.92f30564.chunk.js.map",
+    "runtime-main.js": "/flavors/static/js/runtime-main.183b2387.js",
+    "runtime-main.js.map": "/flavors/static/js/runtime-main.183b2387.js.map",
+    "static/css/2.3db4eb7d.chunk.css": "/flavors/static/css/2.3db4eb7d.chunk.css",
+    "static/js/2.391df31b.chunk.js": "/flavors/static/js/2.391df31b.chunk.js",
+    "static/js/2.391df31b.chunk.js.map": "/flavors/static/js/2.391df31b.chunk.js.map",
+    "index.html": "/flavors/index.html",
+    "precache-manifest.f251646012892c64caf090d773dfa71a.js": "/flavors/precache-manifest.f251646012892c64caf090d773dfa71a.js",
+    "service-worker.js": "/flavors/service-worker.js",
+    "static/css/2.3db4eb7d.chunk.css.map": "/flavors/static/css/2.3db4eb7d.chunk.css.map",
+    "static/css/main.547f0f42.chunk.css.map": "/flavors/static/css/main.547f0f42.chunk.css.map",
+    "static/js/2.391df31b.chunk.js.LICENSE.txt": "/flavors/static/js/2.391df31b.chunk.js.LICENSE.txt",
+    "static/media/baloon.jpeg": "/flavors/static/media/baloon.e509710d.jpeg",
+    "static/media/beach.jpg": "/flavors/static/media/beach.240fbf5b.jpg",
+    "static/media/coffee.jpeg": "/flavors/static/media/coffee.35d4d548.jpeg",
+    "static/media/ferriswheel.jpg": "/flavors/static/media/ferriswheel.5269480d.jpg",
+    "static/media/flowers.jpg": "/flavors/static/media/flowers.4572aa03.jpg",
+    "static/media/hiking.jpg": "/flavors/static/media/hiking.7606a29b.jpg",
+    "static/media/makeup.jpg": "/flavors/static/media/makeup.31518203.jpg",
+    "static/media/pastries.jpg": "/flavors/static/media/pastries.2d8327be.jpg",
+    "static/media/peaches.jpg": "/flavors/static/media/peaches.b83a8467.jpg",
+    "static/media/rainbow.jpg": "/flavors/static/media/rainbow.2ec49e8c.jpg",
+    "static/media/home.css": "/flavors/static/media/restaurant_background.7504294e.jpg",
+    "static/media/waffles.jpg": "/flavors/static/media/waffles.9e4d40e7.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.183b2387.js",
+    "static/css/2.3db4eb7d.chunk.css",
+    "static/js/2.391df31b.chunk.js",
+    "static/css/main.547f0f42.chunk.css",
+    "static/js/main.92f30564.chunk.js"
+  ]
+}

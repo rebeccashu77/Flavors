@@ -1,6 +1,6 @@
 {
   "name": "list",
-  "homepage": "http://rebeccashu77.github.io/flavors",
+  "homepage": "http://rebeccashu77.github.io/Flavors",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -9,7 +9,6 @@
     "@testing-library/user-event": "^7.2.1",
     "bootstrap": "^4.4.1",
     "framer-motion": "^1.8.4",
-    "gh-pages": "^2.2.0",
     "google-maps-react": "^2.0.2",
     "react": "^16.12.0",
     "react-bootstrap": "^1.0.0-beta.16",
@@ -42,6 +41,8 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "devDependencies": {
+    "gh-pages": "^2.2.0"
   }
 }
-
